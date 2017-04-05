@@ -1,0 +1,22 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CC	Makefile	/^CC=g++$/;"	m
+CDEFS	Makefile	/^CDEFS=$/;"	m
+CFILES	Makefile	/^CFILES= $/;"	m
+CFLAGS	Makefile	/^CFLAGS= -O0 -g $(INCLUDE_DIRS) $(CDEFS)$/;"	m
+CPPLIBS	Makefile	/^CPPLIBS= -L\/usr\/local\/opencv\/lib -lopencv_core -lopencv_flann -lopencv_video$/;"	m
+ESC_KEY	capture_stereo.cpp	63;"	d	file:
+HFILES	Makefile	/^HFILES= $/;"	m
+HRES_COLS	capture_stereo.cpp	56;"	d	file:
+INCLUDE_DIRS	Makefile	/^INCLUDE_DIRS =  -I\/usr\/local\/opencv\/include$/;"	m
+LIBS	Makefile	/^LIBS= -lrt$/;"	m
+LIB_DIRS	Makefile	/^LIB_DIRS = $/;"	m
+SRCS	Makefile	/^SRCS= ${HFILES} ${CFILES}$/;"	m
+VRES_ROWS	capture_stereo.cpp	57;"	d	file:
+main	capture.cpp	/^int main( int argc, char** argv )$/;"	f
+main	capture_stereo.cpp	/^int main( int argc, char** argv )$/;"	f
+snapshotname	capture_stereo.cpp	/^char snapshotname[80]="snapshot_xxx.jpg";$/;"	v

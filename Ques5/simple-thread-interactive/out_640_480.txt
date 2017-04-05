@@ -1,0 +1,608 @@
+using default
+Creating thread 1
+Canny detector Thread spawned at 1491371206 sec, 0 usec
+Creating thread 2
+Hough Line Thread spawned at 1491371206 sec, 0 usec
+Creating thread 3
+Hough Circle Thread spawned at 1491371206 sec, 0 usec
+Frame @ 1491371206 sec, 58658 usec, dt=1491371206058.66 msec, avedt= 0.00 msec, rate= 0.00 fps, Jitter = 500 ms
+Canny Detector Thread execution time: 340 ms, Soft Deadline: 130 ms, Jitter: 210 ms
+Hough Line Thread execution time: 404 ms, Soft Deadline: 190 ms, Jitter: 214 ms
+circles.size = 0
+Hough Circle Thread execution time: 436 ms, Soft Deadline: 170 ms, Jitter: 266 ms
+Frame @ 1491371206 sec, 495828 usec, dt=301.51 msec, avedt= 0.00 msec, rate= 0.00 fps, Jitter = 500 ms
+Canny Detector Thread execution time: 125 ms, Soft Deadline: 130 ms, Jitter: -5 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+Hough Line Thread execution time: 113 ms, Soft Deadline: 190 ms, Jitter: -77 ms
+circles.size = 0
+Hough Circle Thread execution time: 110 ms, Soft Deadline: 170 ms, Jitter: -60 ms
+Frame @ 1491371206 sec, 605942 usec, dt=145.87 msec, avedt= 0.00 msec, rate= 0.00 fps, Jitter = 500 ms
+Canny Detector Thread execution time: 79 ms, Soft Deadline: 130 ms, Jitter: -51 ms
+Hough Line Thread execution time: 58 ms, Soft Deadline: 190 ms, Jitter: -132 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 61 ms, Soft Deadline: 170 ms, Jitter: -109 ms
+Frame @ 1491371206 sec, 667439 usec, dt=109.35 msec, avedt=48.62 msec, rate=20.57 fps, Jitter = 451 ms
+Canny Detector Thread execution time: 35 ms, Soft Deadline: 130 ms, Jitter: -95 ms
+Hough Line Thread execution time: 62 ms, Soft Deadline: 190 ms, Jitter: -128 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 64 ms, Soft Deadline: 170 ms, Jitter: -106 ms
+Frame @ 1491371206 sec, 731489 usec, dt=61.74 msec, avedt=63.81 msec, rate=15.67 fps, Jitter = 436 ms
+Canny Detector Thread execution time: 37 ms, Soft Deadline: 130 ms, Jitter: -93 ms
+Hough Line Thread execution time: 70 ms, Soft Deadline: 190 ms, Jitter: -120 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 70 ms, Soft Deadline: 170 ms, Jitter: -100 ms
+Frame @ 1491371206 sec, 802151 usec, dt=59.57 msec, avedt=63.39 msec, rate=15.77 fps, Jitter = 436 ms
+Canny Detector Thread execution time: 45 ms, Soft Deadline: 130 ms, Jitter: -85 ms
+Hough Line Thread execution time: 66 ms, Soft Deadline: 190 ms, Jitter: -124 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 68 ms, Soft Deadline: 170 ms, Jitter: -102 ms
+Frame @ 1491371206 sec, 870902 usec, dt=70.32 msec, avedt=62.75 msec, rate=15.94 fps, Jitter = 437 ms
+Canny Detector Thread execution time: 42 ms, Soft Deadline: 130 ms, Jitter: -88 ms
+Hough Line Thread execution time: 76 ms, Soft Deadline: 190 ms, Jitter: -114 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 74 ms, Soft Deadline: 170 ms, Jitter: -96 ms
+Frame @ 1491371206 sec, 945421 usec, dt=68.72 msec, avedt=63.84 msec, rate=15.67 fps, Jitter = 436 ms
+Canny Detector Thread execution time: 49 ms, Soft Deadline: 130 ms, Jitter: -81 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 89 ms, Soft Deadline: 190 ms, Jitter: -101 ms
+circles.size = 0
+Hough Circle Thread execution time: 89 ms, Soft Deadline: 170 ms, Jitter: -81 ms
+Frame @ 1491371207 sec, 34770 usec, dt=74.56 msec, avedt=64.45 msec, rate=15.52 fps, Jitter = 435 ms
+Canny Detector Thread execution time: 64 ms, Soft Deadline: 130 ms, Jitter: -66 ms
+Hough Line Thread execution time: 80 ms, Soft Deadline: 190 ms, Jitter: -110 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+circles.size = 0
+Hough Circle Thread execution time: 82 ms, Soft Deadline: 170 ms, Jitter: -88 ms
+Frame @ 1491371207 sec, 117704 usec, dt=89.34 msec, avedt=65.57 msec, rate=15.25 fps, Jitter = 434 ms
+Canny Detector Thread execution time: 58 ms, Soft Deadline: 130 ms, Jitter: -72 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 91 ms, Soft Deadline: 190 ms, Jitter: -99 ms
+circles.size = 0
+Hough Circle Thread execution time: 91 ms, Soft Deadline: 170 ms, Jitter: -79 ms
+Frame @ 1491371207 sec, 209505 usec, dt=82.94 msec, avedt=67.95 msec, rate=14.72 fps, Jitter = 432 ms
+Canny Detector Thread execution time: 67 ms, Soft Deadline: 130 ms, Jitter: -63 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 97 ms, Soft Deadline: 190 ms, Jitter: -93 ms
+circles.size = 0
+Hough Circle Thread execution time: 97 ms, Soft Deadline: 170 ms, Jitter: -73 ms
+Frame @ 1491371207 sec, 307381 usec, dt=91.82 msec, avedt=69.31 msec, rate=14.43 fps, Jitter = 430 ms
+Canny Detector Thread execution time: 73 ms, Soft Deadline: 130 ms, Jitter: -57 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 96 ms, Soft Deadline: 190 ms, Jitter: -94 ms
+circles.size = 0
+Hough Circle Thread execution time: 98 ms, Soft Deadline: 170 ms, Jitter: -72 ms
+Frame @ 1491371207 sec, 405570 usec, dt=97.93 msec, avedt=71.19 msec, rate=14.05 fps, Jitter = 428 ms
+Canny Detector Thread execution time: 73 ms, Soft Deadline: 130 ms, Jitter: -57 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 104 ms, Soft Deadline: 190 ms, Jitter: -86 ms
+circles.size = 0
+Hough Circle Thread execution time: 104 ms, Soft Deadline: 170 ms, Jitter: -66 ms
+Frame @ 1491371207 sec, 510572 usec, dt=98.09 msec, avedt=73.24 msec, rate=13.65 fps, Jitter = 426 ms
+Canny Detector Thread execution time: 81 ms, Soft Deadline: 130 ms, Jitter: -49 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 109 ms, Soft Deadline: 190 ms, Jitter: -81 ms
+circles.size = 0
+Hough Circle Thread execution time: 109 ms, Soft Deadline: 170 ms, Jitter: -61 ms
+Frame @ 1491371207 sec, 620098 usec, dt=105.03 msec, avedt=75.02 msec, rate=13.33 fps, Jitter = 424 ms
+Canny Detector Thread execution time: 84 ms, Soft Deadline: 130 ms, Jitter: -46 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 108 ms, Soft Deadline: 190 ms, Jitter: -82 ms
+circles.size = 0
+Hough Circle Thread execution time: 107 ms, Soft Deadline: 170 ms, Jitter: -63 ms
+Frame @ 1491371207 sec, 727832 usec, dt=109.48 msec, avedt=77.02 msec, rate=12.98 fps, Jitter = 422 ms
+Canny Detector Thread execution time: 82 ms, Soft Deadline: 130 ms, Jitter: -48 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 124 ms, Soft Deadline: 190 ms, Jitter: -66 ms
+circles.size = 0
+Hough Circle Thread execution time: 122 ms, Soft Deadline: 170 ms, Jitter: -48 ms
+Frame @ 1491371207 sec, 850822 usec, dt=107.79 msec, avedt=79.05 msec, rate=12.65 fps, Jitter = 420 ms
+Canny Detector Thread execution time: 99 ms, Soft Deadline: 130 ms, Jitter: -31 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 111 ms, Soft Deadline: 190 ms, Jitter: -79 ms
+circles.size = 0
+Hough Circle Thread execution time: 114 ms, Soft Deadline: 170 ms, Jitter: -56 ms
+Frame @ 1491371207 sec, 965078 usec, dt=123.13 msec, avedt=80.74 msec, rate=12.39 fps, Jitter = 419 ms
+Canny Detector Thread execution time: 89 ms, Soft Deadline: 130 ms, Jitter: -41 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 118 ms, Soft Deadline: 190 ms, Jitter: -72 ms
+circles.size = 0
+Hough Circle Thread execution time: 120 ms, Soft Deadline: 170 ms, Jitter: -50 ms
+Frame @ 1491371208 sec, 85425 usec, dt=114.16 msec, avedt=83.09 msec, rate=12.03 fps, Jitter = 416 ms
+Canny Detector Thread execution time: 96 ms, Soft Deadline: 130 ms, Jitter: -34 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 135 ms, Soft Deadline: 190 ms, Jitter: -55 ms
+circles.size = 0
+Hough Circle Thread execution time: 136 ms, Soft Deadline: 170 ms, Jitter: -34 ms
+Frame @ 1491371208 sec, 221777 usec, dt=120.34 msec, avedt=84.73 msec, rate=11.80 fps, Jitter = 415 ms
+Canny Detector Thread execution time: 112 ms, Soft Deadline: 130 ms, Jitter: -18 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 141 ms, Soft Deadline: 190 ms, Jitter: -49 ms
+circles.size = 0
+Hough Circle Thread execution time: 137 ms, Soft Deadline: 170 ms, Jitter: -33 ms
+Frame @ 1491371208 sec, 359452 usec, dt=136.31 msec, avedt=86.51 msec, rate=11.56 fps, Jitter = 413 ms
+Canny Detector Thread execution time: 113 ms, Soft Deadline: 130 ms, Jitter: -17 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 133 ms, Soft Deadline: 190 ms, Jitter: -57 ms
+circles.size = 1
+Hough Circle Thread execution time: 140 ms, Soft Deadline: 170 ms, Jitter: -30 ms
+Frame @ 1491371208 sec, 499614 usec, dt=137.73 msec, avedt=88.88 msec, rate=11.25 fps, Jitter = 411 ms
+Canny Detector Thread execution time: 115 ms, Soft Deadline: 130 ms, Jitter: -15 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 142 ms, Soft Deadline: 190 ms, Jitter: -48 ms
+circles.size = 0
+Hough Circle Thread execution time: 141 ms, Soft Deadline: 170 ms, Jitter: -29 ms
+Frame @ 1491371208 sec, 641455 usec, dt=140.22 msec, avedt=91.10 msec, rate=10.98 fps, Jitter = 408 ms
+Canny Detector Thread execution time: 117 ms, Soft Deadline: 130 ms, Jitter: -13 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 147 ms, Soft Deadline: 190 ms, Jitter: -43 ms
+circles.size = 0
+Hough Circle Thread execution time: 150 ms, Soft Deadline: 170 ms, Jitter: -20 ms
+Frame @ 1491371208 sec, 791598 usec, dt=141.72 msec, avedt=93.24 msec, rate=10.73 fps, Jitter = 406 ms
+Canny Detector Thread execution time: 126 ms, Soft Deadline: 130 ms, Jitter: -4 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 158 ms, Soft Deadline: 190 ms, Jitter: -32 ms
+circles.size = 1
+Hough Circle Thread execution time: 160 ms, Soft Deadline: 170 ms, Jitter: -10 ms
+Frame @ 1491371208 sec, 952391 usec, dt=150.29 msec, avedt=95.26 msec, rate=10.50 fps, Jitter = 404 ms
+Canny Detector Thread execution time: 136 ms, Soft Deadline: 130 ms, Jitter: 6 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 156 ms, Soft Deadline: 190 ms, Jitter: -34 ms
+circles.size = 3
+Hough Circle Thread execution time: 173 ms, Soft Deadline: 170 ms, Jitter: 3 ms
+Frame @ 1491371209 sec, 126081 usec, dt=160.78 msec, avedt=97.46 msec, rate=10.26 fps, Jitter = 402 ms
+Canny Detector Thread execution time: 149 ms, Soft Deadline: 130 ms, Jitter: 19 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 166 ms, Soft Deadline: 190 ms, Jitter: -24 ms
+circles.size = 1
+Hough Circle Thread execution time: 154 ms, Soft Deadline: 170 ms, Jitter: -16 ms
+Frame @ 1491371209 sec, 280678 usec, dt=173.59 msec, avedt=99.89 msec, rate=10.01 fps, Jitter = 400 ms
+Canny Detector Thread execution time: 130 ms, Soft Deadline: 130 ms, Jitter: 0 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 167 ms, Soft Deadline: 190 ms, Jitter: -23 ms
+circles.size = 1
+Hough Circle Thread execution time: 210 ms, Soft Deadline: 170 ms, Jitter: 40 ms
+Frame @ 1491371209 sec, 491109 usec, dt=154.55 msec, avedt=102.62 msec, rate= 9.74 fps, Jitter = 397 ms
+Canny Detector Thread execution time: 186 ms, Soft Deadline: 130 ms, Jitter: 56 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 157 ms, Soft Deadline: 190 ms, Jitter: -33 ms
+circles.size = 3
+Hough Circle Thread execution time: 158 ms, Soft Deadline: 170 ms, Jitter: -12 ms
+Frame @ 1491371209 sec, 649511 usec, dt=210.58 msec, avedt=104.48 msec, rate= 9.57 fps, Jitter = 395 ms
+Canny Detector Thread execution time: 133 ms, Soft Deadline: 130 ms, Jitter: 3 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 157 ms, Soft Deadline: 190 ms, Jitter: -33 ms
+Hough Line Thread execution time: 152 ms, Soft Deadline: 190 ms, Jitter: -38 ms
+circles.size = 2
+Hough Circle Thread execution time: 218 ms, Soft Deadline: 170 ms, Jitter: 48 ms
+Frame @ 1491371209 sec, 868454 usec, dt=158.26 msec, avedt=108.14 msec, rate= 9.25 fps, Jitter = 391 ms
+Canny Detector Thread execution time: 195 ms, Soft Deadline: 130 ms, Jitter: 65 ms
+Canny Detector Thread execution time: 26 ms, Soft Deadline: 130 ms, Jitter: -104 ms
+circles.size = 1
+Hough Circle Thread execution time: 55 ms, Soft Deadline: 170 ms, Jitter: -115 ms
+Frame @ 1491371209 sec, 923916 usec, dt=219.20 msec, avedt=109.81 msec, rate= 9.11 fps, Jitter = 390 ms
+Canny Detector Thread execution time: 28 ms, Soft Deadline: 130 ms, Jitter: -102 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 136 ms, Soft Deadline: 190 ms, Jitter: -54 ms
+circles.size = 3
+Hough Circle Thread execution time: 154 ms, Soft Deadline: 170 ms, Jitter: -16 ms
+Frame @ 1491371210 sec, 78738 usec, dt=55.73 msec, avedt=113.34 msec, rate= 8.82 fps, Jitter = 386 ms
+Canny Detector Thread execution time: 130 ms, Soft Deadline: 130 ms, Jitter: 0 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 148 ms, Soft Deadline: 190 ms, Jitter: -42 ms
+circles.size = 3
+Hough Circle Thread execution time: 193 ms, Soft Deadline: 170 ms, Jitter: 23 ms
+Frame @ 1491371210 sec, 272056 usec, dt=154.30 msec, avedt=111.54 msec, rate= 8.97 fps, Jitter = 388 ms
+Canny Detector Thread execution time: 169 ms, Soft Deadline: 130 ms, Jitter: 39 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 182 ms, Soft Deadline: 190 ms, Jitter: -8 ms
+Hough Line Thread execution time: 165 ms, Soft Deadline: 190 ms, Jitter: -25 ms
+Hough Line Thread execution time: 109 ms, Soft Deadline: 190 ms, Jitter: -81 ms
+circles.size = 3
+Hough Circle Thread execution time: 423 ms, Soft Deadline: 170 ms, Jitter: 253 ms
+Frame @ 1491371210 sec, 695846 usec, dt=193.32 msec, avedt=112.83 msec, rate= 8.86 fps, Jitter = 387 ms
+Hough Line Thread execution time: 98 ms, Soft Deadline: 190 ms, Jitter: -92 ms
+Canny Detector Thread execution time: 400 ms, Soft Deadline: 130 ms, Jitter: 270 ms
+Canny Detector Thread execution time: 21 ms, Soft Deadline: 130 ms, Jitter: -109 ms
+circles.size = 1
+Hough Circle Thread execution time: 56 ms, Soft Deadline: 170 ms, Jitter: -114 ms
+Frame @ 1491371210 sec, 752813 usec, dt=424.19 msec, avedt=115.20 msec, rate= 8.68 fps, Jitter = 384 ms
+Canny Detector Thread execution time: 36 ms, Soft Deadline: 130 ms, Jitter: -94 ms
+circles.size = 1
+Hough Circle Thread execution time: 40 ms, Soft Deadline: 170 ms, Jitter: -130 ms
+Frame @ 1491371210 sec, 793643 usec, dt=56.94 msec, avedt=124.03 msec, rate= 8.06 fps, Jitter = 375 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 1
+Hough Circle Thread execution time: 40 ms, Soft Deadline: 170 ms, Jitter: -130 ms
+Frame @ 1491371210 sec, 834646 usec, dt=40.88 msec, avedt=122.16 msec, rate= 8.19 fps, Jitter = 377 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 921 ms, Soft Deadline: 190 ms, Jitter: 731 ms
+circles.size = 0
+Hough Circle Thread execution time: 818 ms, Soft Deadline: 170 ms, Jitter: 648 ms
+Frame @ 1491371211 sec, 653130 usec, dt=41.89 msec, avedt=119.97 msec, rate= 8.34 fps, Jitter = 380 ms
+Canny Detector Thread execution time: 770 ms, Soft Deadline: 130 ms, Jitter: 640 ms
+Hough Line Thread execution time: 61 ms, Soft Deadline: 190 ms, Jitter: -129 ms
+Canny Detector Thread execution time: 25 ms, Soft Deadline: 130 ms, Jitter: -105 ms
+circles.size = 0
+Hough Circle Thread execution time: 68 ms, Soft Deadline: 170 ms, Jitter: -102 ms
+Frame @ 1491371211 sec, 721261 usec, dt=817.21 msec, avedt=117.91 msec, rate= 8.48 fps, Jitter = 382 ms
+Canny Detector Thread execution time: 45 ms, Soft Deadline: 130 ms, Jitter: -85 ms
+Hough Line Thread execution time: 79 ms, Soft Deadline: 190 ms, Jitter: -111 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+circles.size = 0
+Hough Circle Thread execution time: 80 ms, Soft Deadline: 170 ms, Jitter: -90 ms
+Frame @ 1491371211 sec, 801412 usec, dt=68.05 msec, avedt=135.84 msec, rate= 7.36 fps, Jitter = 364 ms
+Canny Detector Thread execution time: 54 ms, Soft Deadline: 130 ms, Jitter: -76 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 95 ms, Soft Deadline: 190 ms, Jitter: -95 ms
+circles.size = 0
+Hough Circle Thread execution time: 95 ms, Soft Deadline: 170 ms, Jitter: -75 ms
+Frame @ 1491371211 sec, 896584 usec, dt=80.25 msec, avedt=134.15 msec, rate= 7.45 fps, Jitter = 365 ms
+Canny Detector Thread execution time: 71 ms, Soft Deadline: 130 ms, Jitter: -59 ms
+Hough Line Thread execution time: 84 ms, Soft Deadline: 190 ms, Jitter: -106 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+circles.size = 0
+Hough Circle Thread execution time: 86 ms, Soft Deadline: 170 ms, Jitter: -84 ms
+Frame @ 1491371211 sec, 983084 usec, dt=95.17 msec, avedt=132.83 msec, rate= 7.53 fps, Jitter = 367 ms
+Canny Detector Thread execution time: 61 ms, Soft Deadline: 130 ms, Jitter: -69 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 97 ms, Soft Deadline: 190 ms, Jitter: -93 ms
+circles.size = 0
+Hough Circle Thread execution time: 97 ms, Soft Deadline: 170 ms, Jitter: -73 ms
+Frame @ 1491371212 sec, 80946 usec, dt=86.53 msec, avedt=131.94 msec, rate= 7.58 fps, Jitter = 368 ms
+Canny Detector Thread execution time: 73 ms, Soft Deadline: 130 ms, Jitter: -57 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 113 ms, Soft Deadline: 190 ms, Jitter: -77 ms
+circles.size = 0
+Hough Circle Thread execution time: 115 ms, Soft Deadline: 170 ms, Jitter: -55 ms
+Frame @ 1491371212 sec, 196194 usec, dt=97.77 msec, avedt=130.88 msec, rate= 7.64 fps, Jitter = 369 ms
+Canny Detector Thread execution time: 91 ms, Soft Deadline: 130 ms, Jitter: -39 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 105 ms, Soft Deadline: 190 ms, Jitter: -85 ms
+circles.size = 0
+Hough Circle Thread execution time: 107 ms, Soft Deadline: 170 ms, Jitter: -63 ms
+Frame @ 1491371212 sec, 303308 usec, dt=115.28 msec, avedt=130.13 msec, rate= 7.68 fps, Jitter = 369 ms
+Canny Detector Thread execution time: 82 ms, Soft Deadline: 130 ms, Jitter: -48 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 126 ms, Soft Deadline: 190 ms, Jitter: -64 ms
+circles.size = 0
+Hough Circle Thread execution time: 124 ms, Soft Deadline: 170 ms, Jitter: -46 ms
+Frame @ 1491371212 sec, 427917 usec, dt=107.10 msec, avedt=129.80 msec, rate= 7.70 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 99 ms, Soft Deadline: 130 ms, Jitter: -31 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 128 ms, Soft Deadline: 190 ms, Jitter: -62 ms
+circles.size = 0
+Hough Circle Thread execution time: 131 ms, Soft Deadline: 170 ms, Jitter: -39 ms
+Frame @ 1491371212 sec, 559065 usec, dt=124.56 msec, avedt=129.30 msec, rate= 7.73 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 107 ms, Soft Deadline: 130 ms, Jitter: -23 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 126 ms, Soft Deadline: 190 ms, Jitter: -64 ms
+circles.size = 0
+Hough Circle Thread execution time: 127 ms, Soft Deadline: 170 ms, Jitter: -43 ms
+Frame @ 1491371212 sec, 686465 usec, dt=131.27 msec, avedt=129.20 msec, rate= 7.74 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 103 ms, Soft Deadline: 130 ms, Jitter: -27 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 131 ms, Soft Deadline: 190 ms, Jitter: -59 ms
+circles.size = 0
+Hough Circle Thread execution time: 133 ms, Soft Deadline: 170 ms, Jitter: -37 ms
+Frame @ 1491371212 sec, 819656 usec, dt=127.34 msec, avedt=129.25 msec, rate= 7.74 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 108 ms, Soft Deadline: 130 ms, Jitter: -22 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 143 ms, Soft Deadline: 190 ms, Jitter: -47 ms
+circles.size = 0
+Hough Circle Thread execution time: 138 ms, Soft Deadline: 170 ms, Jitter: -32 ms
+Frame @ 1491371212 sec, 958024 usec, dt=133.33 msec, avedt=129.21 msec, rate= 7.74 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 113 ms, Soft Deadline: 130 ms, Jitter: -17 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 128 ms, Soft Deadline: 190 ms, Jitter: -62 ms
+circles.size = 0
+Hough Circle Thread execution time: 133 ms, Soft Deadline: 170 ms, Jitter: -37 ms
+Frame @ 1491371213 sec, 91295 usec, dt=138.16 msec, avedt=129.29 msec, rate= 7.73 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 109 ms, Soft Deadline: 130 ms, Jitter: -21 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 138 ms, Soft Deadline: 190 ms, Jitter: -52 ms
+circles.size = 0
+Hough Circle Thread execution time: 138 ms, Soft Deadline: 170 ms, Jitter: -32 ms
+Frame @ 1491371213 sec, 229546 usec, dt=133.37 msec, avedt=129.46 msec, rate= 7.72 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 114 ms, Soft Deadline: 130 ms, Jitter: -16 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 153 ms, Soft Deadline: 190 ms, Jitter: -37 ms
+circles.size = 0
+Hough Circle Thread execution time: 153 ms, Soft Deadline: 170 ms, Jitter: -17 ms
+Frame @ 1491371213 sec, 383007 usec, dt=138.20 msec, avedt=129.54 msec, rate= 7.72 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 129 ms, Soft Deadline: 130 ms, Jitter: -1 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 146 ms, Soft Deadline: 190 ms, Jitter: -44 ms
+circles.size = 0
+Hough Circle Thread execution time: 149 ms, Soft Deadline: 170 ms, Jitter: -21 ms
+Frame @ 1491371213 sec, 532719 usec, dt=153.51 msec, avedt=129.70 msec, rate= 7.71 fps, Jitter = 370 ms
+Canny Detector Thread execution time: 126 ms, Soft Deadline: 130 ms, Jitter: -4 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 156 ms, Soft Deadline: 190 ms, Jitter: -34 ms
+circles.size = 0
+Hough Circle Thread execution time: 154 ms, Soft Deadline: 170 ms, Jitter: -16 ms
+Frame @ 1491371213 sec, 686983 usec, dt=149.60 msec, avedt=130.14 msec, rate= 7.68 fps, Jitter = 369 ms
+Canny Detector Thread execution time: 129 ms, Soft Deadline: 130 ms, Jitter: -1 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 156 ms, Soft Deadline: 190 ms, Jitter: -34 ms
+circles.size = 1
+Hough Circle Thread execution time: 159 ms, Soft Deadline: 170 ms, Jitter: -11 ms
+Frame @ 1491371213 sec, 846201 usec, dt=154.39 msec, avedt=130.50 msec, rate= 7.66 fps, Jitter = 369 ms
+Canny Detector Thread execution time: 134 ms, Soft Deadline: 130 ms, Jitter: 4 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 159 ms, Soft Deadline: 190 ms, Jitter: -31 ms
+circles.size = 0
+Hough Circle Thread execution time: 164 ms, Soft Deadline: 170 ms, Jitter: -6 ms
+Frame @ 1491371214 sec, 10747 usec, dt=159.21 msec, avedt=130.92 msec, rate= 7.64 fps, Jitter = 369 ms
+Canny Detector Thread execution time: 140 ms, Soft Deadline: 130 ms, Jitter: 10 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 172 ms, Soft Deadline: 190 ms, Jitter: -18 ms
+circles.size = 0
+Hough Circle Thread execution time: 170 ms, Soft Deadline: 170 ms, Jitter: 0 ms
+Frame @ 1491371214 sec, 181657 usec, dt=164.51 msec, avedt=131.42 msec, rate= 7.61 fps, Jitter = 368 ms
+Canny Detector Thread execution time: 146 ms, Soft Deadline: 130 ms, Jitter: 16 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 184 ms, Soft Deadline: 190 ms, Jitter: -6 ms
+circles.size = 0
+Hough Circle Thread execution time: 182 ms, Soft Deadline: 170 ms, Jitter: 12 ms
+Frame @ 1491371214 sec, 364415 usec, dt=170.85 msec, avedt=131.99 msec, rate= 7.58 fps, Jitter = 368 ms
+Canny Detector Thread execution time: 157 ms, Soft Deadline: 130 ms, Jitter: 27 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 173 ms, Soft Deadline: 190 ms, Jitter: -17 ms
+circles.size = 1
+Hough Circle Thread execution time: 181 ms, Soft Deadline: 170 ms, Jitter: 11 ms
+Frame @ 1491371214 sec, 545606 usec, dt=182.81 msec, avedt=132.65 msec, rate= 7.54 fps, Jitter = 367 ms
+Canny Detector Thread execution time: 157 ms, Soft Deadline: 130 ms, Jitter: 27 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 173 ms, Soft Deadline: 190 ms, Jitter: -17 ms
+circles.size = 1
+Hough Circle Thread execution time: 224 ms, Soft Deadline: 170 ms, Jitter: 54 ms
+Frame @ 1491371214 sec, 769930 usec, dt=181.23 msec, avedt=133.49 msec, rate= 7.49 fps, Jitter = 366 ms
+Canny Detector Thread execution time: 200 ms, Soft Deadline: 130 ms, Jitter: 70 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 212 ms, Soft Deadline: 190 ms, Jitter: 22 ms
+circles.size = 0
+Hough Circle Thread execution time: 156 ms, Soft Deadline: 170 ms, Jitter: -14 ms
+Frame @ 1491371214 sec, 926590 usec, dt=224.26 msec, avedt=134.27 msec, rate= 7.45 fps, Jitter = 365 ms
+Canny Detector Thread execution time: 131 ms, Soft Deadline: 130 ms, Jitter: 1 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 196 ms, Soft Deadline: 190 ms, Jitter: 6 ms
+circles.size = 2
+Hough Circle Thread execution time: 222 ms, Soft Deadline: 170 ms, Jitter: 52 ms
+Frame @ 1491371215 sec, 149130 usec, dt=156.71 msec, avedt=135.72 msec, rate= 7.37 fps, Jitter = 364 ms
+Canny Detector Thread execution time: 198 ms, Soft Deadline: 130 ms, Jitter: 68 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 187 ms, Soft Deadline: 190 ms, Jitter: -3 ms
+circles.size = 3
+Hough Circle Thread execution time: 173 ms, Soft Deadline: 170 ms, Jitter: 3 ms
+Frame @ 1491371215 sec, 322346 usec, dt=222.50 msec, avedt=136.05 msec, rate= 7.35 fps, Jitter = 363 ms
+Canny Detector Thread execution time: 149 ms, Soft Deadline: 130 ms, Jitter: 19 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 200 ms, Soft Deadline: 190 ms, Jitter: 10 ms
+circles.size = 2
+Hough Circle Thread execution time: 230 ms, Soft Deadline: 170 ms, Jitter: 60 ms
+Frame @ 1491371215 sec, 553188 usec, dt=173.22 msec, avedt=137.40 msec, rate= 7.28 fps, Jitter = 362 ms
+Canny Detector Thread execution time: 206 ms, Soft Deadline: 130 ms, Jitter: 76 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 204 ms, Soft Deadline: 190 ms, Jitter: 14 ms
+circles.size = 2
+Hough Circle Thread execution time: 297 ms, Soft Deadline: 170 ms, Jitter: 127 ms
+Frame @ 1491371215 sec, 850254 usec, dt=230.84 msec, avedt=137.95 msec, rate= 7.25 fps, Jitter = 362 ms
+Hough Line Thread execution time: 189 ms, Soft Deadline: 190 ms, Jitter: -1 ms
+Canny Detector Thread execution time: 274 ms, Soft Deadline: 130 ms, Jitter: 144 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+circles.size = 1
+Hough Circle Thread execution time: 66 ms, Soft Deadline: 170 ms, Jitter: -104 ms
+Frame @ 1491371215 sec, 916610 usec, dt=297.79 msec, avedt=139.36 msec, rate= 7.18 fps, Jitter = 360 ms
+Canny Detector Thread execution time: 41 ms, Soft Deadline: 130 ms, Jitter: -89 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 1804 ms, Soft Deadline: 190 ms, Jitter: 1614 ms
+circles.size = 0
+Hough Circle Thread execution time: 1767 ms, Soft Deadline: 170 ms, Jitter: 1597 ms
+Frame @ 1491371217 sec, 684316 usec, dt=65.63 msec, avedt=141.73 msec, rate= 7.06 fps, Jitter = 358 ms
+Canny Detector Thread execution time: 1737 ms, Soft Deadline: 130 ms, Jitter: 1607 ms
+Hough Line Thread execution time: 57 ms, Soft Deadline: 190 ms, Jitter: -133 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+circles.size = 0
+Hough Circle Thread execution time: 70 ms, Soft Deadline: 170 ms, Jitter: -100 ms
+Frame @ 1491371217 sec, 754514 usec, dt=1767.73 msec, avedt=140.61 msec, rate= 7.11 fps, Jitter = 359 ms
+Canny Detector Thread execution time: 51 ms, Soft Deadline: 130 ms, Jitter: -79 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 89 ms, Soft Deadline: 190 ms, Jitter: -101 ms
+circles.size = 0
+Hough Circle Thread execution time: 87 ms, Soft Deadline: 170 ms, Jitter: -83 ms
+Frame @ 1491371217 sec, 842251 usec, dt=70.19 msec, avedt=164.19 msec, rate= 6.09 fps, Jitter = 335 ms
+Canny Detector Thread execution time: 63 ms, Soft Deadline: 130 ms, Jitter: -67 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 96 ms, Soft Deadline: 190 ms, Jitter: -94 ms
+circles.size = 0
+Hough Circle Thread execution time: 100 ms, Soft Deadline: 170 ms, Jitter: -70 ms
+Frame @ 1491371217 sec, 943012 usec, dt=87.79 msec, avedt=162.85 msec, rate= 6.14 fps, Jitter = 337 ms
+Canny Detector Thread execution time: 76 ms, Soft Deadline: 130 ms, Jitter: -54 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 100 ms, Soft Deadline: 190 ms, Jitter: -90 ms
+circles.size = 0
+Hough Circle Thread execution time: 99 ms, Soft Deadline: 170 ms, Jitter: -71 ms
+Frame @ 1491371218 sec, 42277 usec, dt=100.78 msec, avedt=161.79 msec, rate= 6.18 fps, Jitter = 338 ms
+Canny Detector Thread execution time: 74 ms, Soft Deadline: 130 ms, Jitter: -56 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 111 ms, Soft Deadline: 190 ms, Jitter: -79 ms
+circles.size = 0
+Hough Circle Thread execution time: 115 ms, Soft Deadline: 170 ms, Jitter: -55 ms
+Frame @ 1491371218 sec, 157349 usec, dt=99.15 msec, avedt=160.94 msec, rate= 6.21 fps, Jitter = 339 ms
+Canny Detector Thread execution time: 90 ms, Soft Deadline: 130 ms, Jitter: -40 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 143 ms, Soft Deadline: 190 ms, Jitter: -47 ms
+circles.size = 0
+Hough Circle Thread execution time: 142 ms, Soft Deadline: 170 ms, Jitter: -28 ms
+Frame @ 1491371218 sec, 299401 usec, dt=115.09 msec, avedt=160.10 msec, rate= 6.25 fps, Jitter = 339 ms
+Canny Detector Thread execution time: 117 ms, Soft Deadline: 130 ms, Jitter: -13 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 125 ms, Soft Deadline: 190 ms, Jitter: -65 ms
+circles.size = 0
+Hough Circle Thread execution time: 124 ms, Soft Deadline: 170 ms, Jitter: -46 ms
+Frame @ 1491371218 sec, 424120 usec, dt=142.13 msec, avedt=159.49 msec, rate= 6.27 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 100 ms, Soft Deadline: 130 ms, Jitter: -30 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 130 ms, Soft Deadline: 190 ms, Jitter: -60 ms
+circles.size = 0
+Hough Circle Thread execution time: 134 ms, Soft Deadline: 170 ms, Jitter: -36 ms
+Frame @ 1491371218 sec, 558435 usec, dt=124.64 msec, avedt=159.26 msec, rate= 6.28 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 110 ms, Soft Deadline: 130 ms, Jitter: -20 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 166 ms, Soft Deadline: 190 ms, Jitter: -24 ms
+circles.size = 0
+Hough Circle Thread execution time: 167 ms, Soft Deadline: 170 ms, Jitter: -3 ms
+Frame @ 1491371218 sec, 725923 usec, dt=134.32 msec, avedt=158.80 msec, rate= 6.30 fps, Jitter = 341 ms
+Canny Detector Thread execution time: 142 ms, Soft Deadline: 130 ms, Jitter: 12 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 151 ms, Soft Deadline: 190 ms, Jitter: -39 ms
+circles.size = 0
+Hough Circle Thread execution time: 151 ms, Soft Deadline: 170 ms, Jitter: -19 ms
+Frame @ 1491371218 sec, 877307 usec, dt=167.48 msec, avedt=158.48 msec, rate= 6.31 fps, Jitter = 341 ms
+Canny Detector Thread execution time: 128 ms, Soft Deadline: 130 ms, Jitter: -2 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 155 ms, Soft Deadline: 190 ms, Jitter: -35 ms
+circles.size = 2
+Hough Circle Thread execution time: 162 ms, Soft Deadline: 170 ms, Jitter: -8 ms
+Frame @ 1491371219 sec, 39617 usec, dt=151.34 msec, avedt=158.60 msec, rate= 6.31 fps, Jitter = 341 ms
+Canny Detector Thread execution time: 137 ms, Soft Deadline: 130 ms, Jitter: 7 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 192 ms, Soft Deadline: 190 ms, Jitter: 2 ms
+circles.size = 2
+Hough Circle Thread execution time: 196 ms, Soft Deadline: 170 ms, Jitter: 26 ms
+Frame @ 1491371219 sec, 236076 usec, dt=162.46 msec, avedt=158.51 msec, rate= 6.31 fps, Jitter = 341 ms
+Canny Detector Thread execution time: 171 ms, Soft Deadline: 130 ms, Jitter: 41 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 174 ms, Soft Deadline: 190 ms, Jitter: -16 ms
+circles.size = 2
+Hough Circle Thread execution time: 177 ms, Soft Deadline: 170 ms, Jitter: 7 ms
+Frame @ 1491371219 sec, 413903 usec, dt=196.36 msec, avedt=158.56 msec, rate= 6.31 fps, Jitter = 341 ms
+Canny Detector Thread execution time: 154 ms, Soft Deadline: 130 ms, Jitter: 24 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 178 ms, Soft Deadline: 190 ms, Jitter: -12 ms
+circles.size = 0
+Hough Circle Thread execution time: 164 ms, Soft Deadline: 170 ms, Jitter: -6 ms
+Frame @ 1491371219 sec, 578039 usec, dt=177.78 msec, avedt=159.02 msec, rate= 6.29 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 139 ms, Soft Deadline: 130 ms, Jitter: 9 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 190 ms, Soft Deadline: 190 ms, Jitter: 0 ms
+circles.size = 1
+Hough Circle Thread execution time: 206 ms, Soft Deadline: 170 ms, Jitter: 36 ms
+Frame @ 1491371219 sec, 784457 usec, dt=164.22 msec, avedt=159.25 msec, rate= 6.28 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 182 ms, Soft Deadline: 130 ms, Jitter: 52 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 183 ms, Soft Deadline: 190 ms, Jitter: -7 ms
+circles.size = 1
+Hough Circle Thread execution time: 180 ms, Soft Deadline: 170 ms, Jitter: 10 ms
+Frame @ 1491371219 sec, 965335 usec, dt=206.33 msec, avedt=159.31 msec, rate= 6.28 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 157 ms, Soft Deadline: 130 ms, Jitter: 27 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 177 ms, Soft Deadline: 190 ms, Jitter: -13 ms
+circles.size = 4
+Hough Circle Thread execution time: 244 ms, Soft Deadline: 170 ms, Jitter: 74 ms
+Frame @ 1491371220 sec, 210099 usec, dt=180.99 msec, avedt=159.87 msec, rate= 6.26 fps, Jitter = 340 ms
+Canny Detector Thread execution time: 219 ms, Soft Deadline: 130 ms, Jitter: 89 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 213 ms, Soft Deadline: 190 ms, Jitter: 23 ms
+circles.size = 0
+Hough Circle Thread execution time: 136 ms, Soft Deadline: 170 ms, Jitter: -34 ms
+Frame @ 1491371220 sec, 346442 usec, dt=244.72 msec, avedt=160.12 msec, rate= 6.25 fps, Jitter = 339 ms
+Canny Detector Thread execution time: 112 ms, Soft Deadline: 130 ms, Jitter: -18 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 189 ms, Soft Deadline: 190 ms, Jitter: -1 ms
+circles.size = 0
+Hough Circle Thread execution time: 190 ms, Soft Deadline: 170 ms, Jitter: 20 ms
+Frame @ 1491371220 sec, 537200 usec, dt=136.33 msec, avedt=161.10 msec, rate= 6.21 fps, Jitter = 338 ms
+Canny Detector Thread execution time: 167 ms, Soft Deadline: 130 ms, Jitter: 37 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 182 ms, Soft Deadline: 190 ms, Jitter: -8 ms
+circles.size = 2
+Hough Circle Thread execution time: 208 ms, Soft Deadline: 170 ms, Jitter: 38 ms
+Frame @ 1491371220 sec, 745514 usec, dt=190.75 msec, avedt=160.82 msec, rate= 6.22 fps, Jitter = 339 ms
+Canny Detector Thread execution time: 184 ms, Soft Deadline: 130 ms, Jitter: 54 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 203 ms, Soft Deadline: 190 ms, Jitter: 13 ms
+circles.size = 2
+Hough Circle Thread execution time: 181 ms, Soft Deadline: 170 ms, Jitter: 11 ms
+Frame @ 1491371220 sec, 926566 usec, dt=208.29 msec, avedt=161.16 msec, rate= 6.21 fps, Jitter = 338 ms
+Canny Detector Thread execution time: 156 ms, Soft Deadline: 130 ms, Jitter: 26 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 201 ms, Soft Deadline: 190 ms, Jitter: 11 ms
+circles.size = 2
+Hough Circle Thread execution time: 206 ms, Soft Deadline: 170 ms, Jitter: 36 ms
+Frame @ 1491371221 sec, 132852 usec, dt=181.17 msec, avedt=161.69 msec, rate= 6.18 fps, Jitter = 338 ms
+Canny Detector Thread execution time: 181 ms, Soft Deadline: 130 ms, Jitter: 51 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 186 ms, Soft Deadline: 190 ms, Jitter: -4 ms
+circles.size = 3
+Hough Circle Thread execution time: 333 ms, Soft Deadline: 170 ms, Jitter: 163 ms
+Frame @ 1491371221 sec, 466018 usec, dt=206.17 msec, avedt=161.90 msec, rate= 6.18 fps, Jitter = 338 ms
+Hough Line Thread execution time: 213 ms, Soft Deadline: 190 ms, Jitter: 23 ms
+Canny Detector Thread execution time: 310 ms, Soft Deadline: 130 ms, Jitter: 180 ms
+Canny Detector Thread execution time: 21 ms, Soft Deadline: 130 ms, Jitter: -109 ms
+circles.size = 3
+Hough Circle Thread execution time: 108 ms, Soft Deadline: 170 ms, Jitter: -62 ms
+Frame @ 1491371221 sec, 574738 usec, dt=333.35 msec, avedt=162.39 msec, rate= 6.16 fps, Jitter = 337 ms
+Canny Detector Thread execution time: 85 ms, Soft Deadline: 130 ms, Jitter: -45 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 204 ms, Soft Deadline: 190 ms, Jitter: 14 ms
+circles.size = 4
+Hough Circle Thread execution time: 199 ms, Soft Deadline: 170 ms, Jitter: 29 ms
+Frame @ 1491371221 sec, 774293 usec, dt=108.73 msec, avedt=164.25 msec, rate= 6.09 fps, Jitter = 335 ms
+Canny Detector Thread execution time: 175 ms, Soft Deadline: 130 ms, Jitter: 45 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 197 ms, Soft Deadline: 190 ms, Jitter: 7 ms
+circles.size = 3
+Hough Circle Thread execution time: 169 ms, Soft Deadline: 170 ms, Jitter: -1 ms
+Frame @ 1491371221 sec, 943854 usec, dt=199.40 msec, avedt=163.65 msec, rate= 6.11 fps, Jitter = 336 ms
+Canny Detector Thread execution time: 145 ms, Soft Deadline: 130 ms, Jitter: 15 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 196 ms, Soft Deadline: 190 ms, Jitter: 6 ms
+circles.size = 2
+Hough Circle Thread execution time: 199 ms, Soft Deadline: 170 ms, Jitter: 29 ms
+Frame @ 1491371222 sec, 143104 usec, dt=169.60 msec, avedt=164.03 msec, rate= 6.10 fps, Jitter = 335 ms
+Canny Detector Thread execution time: 175 ms, Soft Deadline: 130 ms, Jitter: 45 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 201 ms, Soft Deadline: 190 ms, Jitter: 11 ms
+circles.size = 4
+Hough Circle Thread execution time: 319 ms, Soft Deadline: 170 ms, Jitter: 149 ms
+Frame @ 1491371222 sec, 463103 usec, dt=199.28 msec, avedt=164.09 msec, rate= 6.09 fps, Jitter = 335 ms
+Hough Line Thread execution time: 194 ms, Soft Deadline: 190 ms, Jitter: 4 ms
+Canny Detector Thread execution time: 296 ms, Soft Deadline: 130 ms, Jitter: 166 ms
+Canny Detector Thread execution time: 19 ms, Soft Deadline: 130 ms, Jitter: -111 ms
+circles.size = 0
+Hough Circle Thread execution time: 55 ms, Soft Deadline: 170 ms, Jitter: -115 ms
+Frame @ 1491371222 sec, 518327 usec, dt=320.15 msec, avedt=164.46 msec, rate= 6.08 fps, Jitter = 335 ms
+Canny Detector Thread execution time: 35 ms, Soft Deadline: 130 ms, Jitter: -95 ms
+Canny Detector Thread execution time: 24 ms, Soft Deadline: 130 ms, Jitter: -106 ms
+Hough Line Thread execution time: 628 ms, Soft Deadline: 190 ms, Jitter: 438 ms
+circles.size = 0
+Hough Circle Thread execution time: 616 ms, Soft Deadline: 170 ms, Jitter: 446 ms
+Frame @ 1491371223 sec, 134422 usec, dt=55.28 msec, avedt=166.06 msec, rate= 6.02 fps, Jitter = 333 ms
+Canny Detector Thread execution time: 589 ms, Soft Deadline: 130 ms, Jitter: 459 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 86 ms, Soft Deadline: 190 ms, Jitter: -104 ms
+circles.size = 1
+Hough Circle Thread execution time: 98 ms, Soft Deadline: 170 ms, Jitter: -72 ms
+Frame @ 1491371223 sec, 232528 usec, dt=615.85 msec, avedt=164.93 msec, rate= 6.06 fps, Jitter = 335 ms
+Canny Detector Thread execution time: 76 ms, Soft Deadline: 130 ms, Jitter: -54 ms
+Canny Detector Thread execution time: 23 ms, Soft Deadline: 130 ms, Jitter: -107 ms
+Hough Line Thread execution time: 119 ms, Soft Deadline: 190 ms, Jitter: -71 ms
+circles.size = 0
+Hough Circle Thread execution time: 115 ms, Soft Deadline: 170 ms, Jitter: -55 ms
+Frame @ 1491371223 sec, 347625 usec, dt=98.12 msec, avedt=169.49 msec, rate= 5.90 fps, Jitter = 330 ms
+Canny Detector Thread execution time: 91 ms, Soft Deadline: 130 ms, Jitter: -39 ms
+Canny Detector Thread done
+Hough Line Thread execution time: 125 ms, Soft Deadline: 190 ms, Jitter: -65 ms
+Hough Line Thread done
+circles.size = 0
+Hough Circle Thread execution time: 125 ms, Soft Deadline: 170 ms, Jitter: -45 ms
+Hough Circle Thread done

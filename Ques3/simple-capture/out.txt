@@ -1,0 +1,98 @@
+Number of arguments: 1, Arg List: ./capture
+FORCING FORMAT
+allocated buffer 0
+allocated buffer 1
+allocated buffer 2
+allocated buffer 3
+allocated buffer 4
+allocated buffer 5
+frame 1: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 2: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 3: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 4: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 5: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 6: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 7: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 8: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 9: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 10: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 11: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 12: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 13: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 14: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 15: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 16: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 17: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 18: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 19: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 20: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 21: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 22: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 23: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 24: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 25: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 26: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 27: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 28: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 29: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216
+frame 30: Dump YUYV converted to RGB size 153600
+wrote 230400 bytes
+time_error.tv_sec=-1225154560, time_error.tv_nsec=216

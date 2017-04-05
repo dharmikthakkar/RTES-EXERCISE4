@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+CC	Makefile	/^CC=g++$/;"	m
+CDEFS	Makefile	/^CDEFS=$/;"	m
+CFILES	Makefile	/^CFILES= $/;"	m
+CFLAGS	Makefile	/^CFLAGS= -O0 -pg -g $(INCLUDE_DIRS) $(CDEFS)$/;"	m
+CPPFILES	Makefile	/^CPPFILES= capture.cpp$/;"	m
+CPPLIBS	Makefile	/^CPPLIBS= -L\/usr\/lib -lopencv_core -lopencv_flann -lopencv_video$/;"	m
+CPPOBJS	Makefile	/^CPPOBJS= ${CPPFILES:.cpp=.o}$/;"	m
+CannyThreshold	capture.cpp	/^void CannyThreshold(int, void*)$/;"	f
+HFILES	Makefile	/^HFILES= $/;"	m
+HRES	capture.cpp	18;"	d	file:
+INCLUDE_DIRS	Makefile	/^INCLUDE_DIRS = $/;"	m
+LIBS	Makefile	/^LIBS= -lrt$/;"	m
+LIB_DIRS	Makefile	/^LIB_DIRS = $/;"	m
+SRCS	Makefile	/^SRCS= ${HFILES} ${CFILES}$/;"	m
+VRES	capture.cpp	19;"	d	file:
+canny_frame	capture.cpp	/^Mat canny_frame, cdst, timg_gray, timg_grad;$/;"	v
+cdst	capture.cpp	/^Mat canny_frame, cdst, timg_gray, timg_grad;$/;"	v
+edgeThresh	capture.cpp	/^int edgeThresh = 1;$/;"	v
+frame	capture.cpp	/^IplImage* frame;$/;"	v
+kernel_size	capture.cpp	/^int kernel_size = 3;$/;"	v
+lowThreshold	capture.cpp	/^int lowThreshold=0;$/;"	v
+main	capture.cpp	/^int main( int argc, char** argv )$/;"	f
+max_lowThreshold	capture.cpp	/^int const max_lowThreshold = 100;$/;"	v
+ratio	capture.cpp	/^int ratio = 3;$/;"	v
+timg_grad	capture.cpp	/^Mat canny_frame, cdst, timg_gray, timg_grad;$/;"	v
+timg_gray	capture.cpp	/^Mat canny_frame, cdst, timg_gray, timg_grad;$/;"	v
+timg_window_name	capture.cpp	/^char timg_window_name[] = "Edge Detector Transform";$/;"	v
